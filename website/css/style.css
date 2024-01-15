@@ -1,0 +1,178 @@
+        body {
+            background-color: black;
+        }
+        
+        .head {
+            box-shadow: 3px 3px 5px white;
+            width: 100%;
+            height: 70px;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+        
+        .logo {
+            height: 65px;
+            width: 13%;
+            float: left;
+        }
+        
+        .logo img {
+            height: 65px;
+            width: 100%;
+        }
+        
+        .navbare {
+            height: 65px;
+            width: 40%;
+            margin-left: 20%;
+            float: left;
+        }
+        
+        .anchor ul li a {
+            text-decoration: none;
+            color: antiquewhite;
+            font-size: xx-large;
+            font-weight: bold;
+            text-shadow: 3px 3px 5px aquamarine;
+        }
+        
+        .anchor ul li {
+            display: inline-block;
+            padding: 4px;
+        }
+        
+        .search {
+            height: inherit;
+            width: 20%;
+            float: right;
+            margin-right: 40px;
+        }
+        
+        .search input {
+            padding: 5px;
+            border-radius: 10px;
+            margin-top: 20px;
+            margin-left: 35px;
+        }
+        
+        .slider {
+            width: 100%;
+            height: 450px;
+            margin-top: 10px;
+            box-shadow: 3px 3px 20px 10px rgba(255, 255, 255, 0.3);
+        }
+        
+        .slider img {
+            width: inherit;
+            height: inherit;
+            border-radius: 8px;
+        }
+        
+        .content {
+            width: 100%;
+            margin-top: 5px;
+            height: 430px;
+        }
+        
+        .left-content {
+            float: left;
+            width: 47%;
+            margin-left: 13px;
+            height: 400px;
+            color: aliceblue;
+            margin-top: 10px;
+            border-top-left-radius: 80px;
+            border-bottom-right-radius: 80px;
+            border-bottom-left-radius: 10px;
+            box-shadow: 1px 1px 10px 10px wheat;
+        }
+        
+        .right-content img {
+            float: right;
+            width: 47%;
+            margin-right: 13px;
+            height: 400px;
+            margin-top: 10px;
+            border-top-right-radius: 80px;
+            border-bottom-left-radius: 80px;
+            border-bottom-right-radius: 10px;
+            box-shadow: 1px 1px 10px 10px rgb(99, 96, 91);
+        }
+        
+        .first-para {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+            padding-left: 12px;
+            padding-right: 12px;
+            color: red;
+        }
+        
+        .f1-h3 {
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        
+        .table {
+            width: inherit;
+            height: 300px;
+            margin-top: 10px;
+            box-shadow: 1px 1px 17px 5px rgb(59, 58, 56);
+        }
+        
+        .div1 {
+            width: 22%;
+            height: 280px;
+            border: 3px solid white;
+            display: inline-block;
+            margin-left: 25px;
+            margin-top: 8px;
+            border-radius: 18px;
+            color: antiquewhite;
+            float: left;
+        }
+        
+        .div1 p {
+            font-family: Verdana, Geneva, Tahoma;
+            text-align: center;
+            font-size: small;
+            padding: 5px;
+        }
+        
+        .div1 table {
+            border: 3px solid white;
+            margin-top: 9px;
+            text-align: center;
+            width: 100%;
+        }
+        
+        .div1 table tr td {
+            border: 3px solid white;
+        }
+        
+        .div1 table tr th {
+            border: 3px solid white;
+        }
+        
+        .div1 h1 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+        }
+        
+        .div1 button {
+            margin-left: 30%;
+            margin-top: 10%;
+            font-size: larger;
+            background-image: linear-gradient(grey, rgb(231, 151, 46));
+            color: azure;
+            border-radius: 50px;
+        }
+        
+        .boderpara {
+            margin-top: 10%;
+        }
+        
+        .div1 img {
+            width: 100%;
+            height: inherit;
+            border-radius: 10px;
+        }
